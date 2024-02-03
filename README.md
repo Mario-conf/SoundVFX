@@ -62,8 +62,8 @@ Explora nuestro catálogo diverso y sumérgete en un mundo de posibilidades sono
 - **Precio:** 1.599,00 €
 - [Comprar](https://alphatheta.com/es/product/all-in-one-dj-system/omnis-duo/indigo/)
 
-![OMNIS-DUO]([https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp](https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp))
 
+![OMNIS-DUO](https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp)
 
 
 ## Documentación y Drivers <a name="documentation"></a>
@@ -161,7 +161,8 @@ Explore our diverse catalog and immerse yourself in a world of sonic possibiliti
 - **Price:** €1,599.00
 - [Buy](https://alphatheta.com/es/product/all-in-one-dj-system/omnis-duo/indigo/)
 
-![OMNIS-DUO]([https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp](https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp))
+
+![OMNIS-DUO](https://assets.alphatheta.com/wp-content/uploads/2024/01/OMNIS-DUO-CGI-top-3500x2994-1-scaled.webp)
 
 ## Documentation and Drivers <a name="documentation"></a>
 
