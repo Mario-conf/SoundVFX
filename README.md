@@ -1,5 +1,8 @@
 # SoundVFX - Sitio Web de Equipos de Música y DJ
 
+![logo]([https://www.audio-technica.com/es-es/media/catalog/product/cache/d5446cb51b7b03a7a4e70428ee9aeb56/a/t/at4047mp_01.png](https://www.audio-technica.com/es-es/media/wysiwyg/parallax/AT4047MP_Paralax_01.png))
+
+
 ¡Bienvenido a SoundVFX, tu destino para encontrar equipos de música, DJ y productos de audio de la más alta calidad! Este sitio web ha sido desarrollado por [Mario.conf](https://github.com/Mario-conf).
 
 ## Contenido
@@ -94,6 +97,10 @@ Si deseas contribuir al desarrollo y mejora de SoundVFX, te damos la bienvenida.
 ---
 
 # SoundVFX - Music and DJ Equipment Website
+
+
+
+![logo]([https://www.audio-technica.com/es-es/media/catalog/product/cache/d5446cb51b7b03a7a4e70428ee9aeb56/a/t/at4047mp_01.png](https://www.audio-technica.com/es-es/media/wysiwyg/parallax/AT4047MP_Paralax_01.png))
 
 Welcome to SoundVFX, your destination for discovering high-quality music, DJ equipment, and audio products! This website has been developed by [Mario.conf](https://github.com/Mario-conf).
 
