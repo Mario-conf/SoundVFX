@@ -157,6 +157,10 @@ h5 {
   .copy a:hover{
     color: rgb(255, 255, 255);
   }
+
+.btn-primary {
+    width: auto;
+}
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -247,6 +251,10 @@ h5 {
   .copy a:hover{
     color: rgb(255, 255, 255);
   }
+
+.btn-primary {
+    width: auto;
+}
 }
 
 .copy a {
